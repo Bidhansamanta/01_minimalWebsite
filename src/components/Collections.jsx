@@ -12,7 +12,7 @@ function Collections() {
       <Header placeHolderText="Collections" />
       <Text textMessage="Selected Work" />
       <Paragraph paraText="A curation of projects defining modern commerce and spatial design. Built on the principles of minimalism, utility, and refined aesthetics." />
-      <ImgContainer imgUrl="./public/images/collections.png" />
+      <ImgContainer imgUrl="/images/collections.png" />
       <Middle li1="ALL WORKS" li2="ARCHITECTURE" li3="DIGITAL" li4="OBJECTS"/>
       <CollectionsCard
         imgUrl="./public/images/cup.png"
@@ -20,17 +20,17 @@ function Collections() {
         text="Forma Brew Collection"
       />
       <CollectionsCard
-        imgUrl="./public/images/mobile.png"
+        imgUrl="/images/mobile.png"
         paragraph="DIGITAL PRODUCT"
         text="Oasis App Interface"
       />
       <CollectionsCard
-        imgUrl="./public/images/office.png"
+        imgUrl="/images/office.png"
         paragraph="INTERIOR ARCHITECTURE"
         text="Vanguard Headquarter"
       />
       <CollectionsCard
-        imgUrl="./public/images/book.png"
+        imgUrl="/images/book.png"
         paragraph="PRINT TYPOGRAPHY"
         text="Monograph: Volume IV"
       />
