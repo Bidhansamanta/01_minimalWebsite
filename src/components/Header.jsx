@@ -5,7 +5,7 @@ function Header({placeHolderText}) {
         <h1 className="text-xl font-bold text-black sm:text-2xl">☰</h1>
 
         <img
-          src="./public/images/logo.png"
+          src="/public/images/logo.png"
           alt="logo"
           className="h-10 w-10 rounded-full sm:h-[50px] sm:w-[50px] md:h-[60px] md:w-[60px]"
         />
@@ -21,7 +21,7 @@ function Header({placeHolderText}) {
         </div>
 
         <img
-          src="./public/images/user.png"
+          src="/public/images/user.png"
           alt="user"
           className="h-10 w-10 rounded-full sm:h-[50px] sm:w-[50px] md:h-[60px] md:w-[60px]"
         />
