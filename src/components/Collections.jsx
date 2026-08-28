@@ -15,7 +15,7 @@ function Collections() {
       <ImgContainer imgUrl="/images/collections.png" />
       <Middle li1="ALL WORKS" li2="ARCHITECTURE" li3="DIGITAL" li4="OBJECTS"/>
       <CollectionsCard
-        imgUrl="./public/images/cup.png"
+        imgUrl="/images/cup.png"
         paragraph="INDUSTRIAL DESIGN"
         text="Forma Brew Collection"
       />
